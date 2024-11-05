@@ -1,5 +1,5 @@
-# Dodge the Creeps 2D assets
+# Dodge the Creeps
 
-Used by the "Your first 2D game" tutorial:
+A simple game where the character must move and avoid enemies for as long as possible.
 
-https://docs.godotengine.org/en/latest/getting_started/first_2d_game/index.html
+Assets used: https://docs.godotengine.org/en/latest/getting_started/first_2d_game/index.html
